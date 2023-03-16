@@ -1,0 +1,23 @@
+{
+  "name": "hapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariefroihannurrahman/ILT-CC-02-BA.git"
+  },
+  "author": "Arief Roihan Nur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariefroihannurrahman/ILT-CC-02-BA/issues"
+  },
+  "homepage": "https://github.com/ariefroihannurrahman/ILT-CC-02-BA#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.0"
+  }
+}
